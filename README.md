@@ -8,13 +8,13 @@ telefone celular. Outros tipos de contatos possuem os seguintes dados: nome, ema
 Crie um sistema que permita o usuário a realizar inclusão, alteração, localização e exclusão dos diferentes tipos de contatos. 
 
 
-- O cadastro de cada contato deve ser feito em uma janela separada.
-- Os dados devem ser mantidos em um arquivo. 
-- Verificar o CNPJ e o CPF do contato, usando exceções quando estes dados não forem válidos.
-- Fique atento para a possibilidade de usar heranças.
-- Use a arquitetura em camadas com classes de fronteira (interface) controle (processamento) e entidade (dados).
-- Use janelas diferentes para os cadastros e para a inclusão, atualização e consulta dos dados.
-- As janelas de cadastro devem ter tabelas para mostrar os dados dos contatos.
-- A aplicativo deve ter uma janela principal com uma barra de menus com um menu, a partir do qual as janelas de cadastros devem ser abertas.
-- A trabalho é individual.
+- O cadastro de cada contato deve ser feito em uma janela separada;
+- Os dados devem ser mantidos em um arquivo;
+- Verificar o CNPJ e o CPF do contato, usando exceções quando estes dados não forem válidos;
+- Fique atento para a possibilidade de usar heranças;
+- Use a arquitetura em camadas com classes de fronteira (interface) controle (processamento) e entidade (dados);
+- Use janelas diferentes para os cadastros e para a inclusão, atualização e consulta dos dados;
+- As janelas de cadastro devem ter tabelas para mostrar os dados dos contatos;
+- A aplicativo deve ter uma janela principal com uma barra de menus com um menu, a partir do qual as janelas de cadastros devem ser abertas;
+- A trabalho é individual;
 - Será descontado 1 ponto para cada item não atendido.- Não será aceito trabalho copiado de outro estudante (ambos ficarão com nota zero).
