@@ -1,6 +1,6 @@
-# AV1JAVA
+# Sistema de Cadastro de Contatos Simples
 
-AV1 de Java feita por mim e pela Juliana. Abaixo o enunciado:
+AV1 da disciplina de Programação em Java feita por mim e pela Juliana. Abaixo o enunciado:
 
 Uma empresa mantém os dados de seus contados em cartões e deseja um sistema de software para facilitar o cadastramento e localização de contatos. Os contados podem ser de quatro tipos: fornecedores, clientes, pessoais e outros. Os dados do fornecedor são: nome, CNPJ, email, e telefone fixo e FAX. Os contatos do cliente são: nome, CNPJ ou CPF, telefone residencial, telefone do trabalho e telefone celular e FAX. Os contatos pessoais possuem os seguintes dados: nome, email, telefone fixo e
 telefone celular. Outros tipos de contatos possuem os seguintes dados: nome, email e telefone.
